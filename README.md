@@ -17,7 +17,7 @@ ___
 ___
 ### 
 
-## Below is a list of images showing the code for the different models and the results each one yields.
+### Below is a list of images showing the code for the different models and the results each one yields.
 ### Naive Random Oversampling
 
 ![Oversampling1](https://user-images.githubusercontent.com/89947873/153102368-0d7e6bbc-77d9-4fb9-a16f-3ad83fe0e0c2.png)
