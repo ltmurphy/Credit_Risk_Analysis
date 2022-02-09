@@ -65,6 +65,8 @@ ___
 ![BalancedRandomForestClassifier3](https://user-images.githubusercontent.com/89947873/153104266-547bc974-0810-4a0c-ad63-5e9809dcad2a.png)
 
 ### Easy Ensemble AdaBoost Classifier
+####There was an unknown internal error with the Easy Ensemble module. After much troubleshooting it appears to be a lack of support for older technology in the new update. However, even regressing to Easy Ensemble's earliest iteration still does not rectify the problem. Below is an image of what the model would potentially look like.
+![EasyEnsemble1](https://user-images.githubusercontent.com/89947873/153303778-bd57608a-30af-47a1-8b59-7bf4a67905c2.png)
 
 ## Credit_Risk_Analysis Summary
 ### 
