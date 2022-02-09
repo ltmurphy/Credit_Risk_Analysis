@@ -68,15 +68,13 @@ ___
 ####There was an unknown internal error with the Easy Ensemble module. After much troubleshooting it appears to be a lack of support for older technology in the new update. However, even regressing to Easy Ensemble's earliest iteration still does not rectify the problem. Below is an image of what the model would potentially look like.
 ![EasyEnsemble1](https://user-images.githubusercontent.com/89947873/153303778-bd57608a-30af-47a1-8b59-7bf4a67905c2.png)
 
-### Results 
- * Naive Random Samping
-####     * Balanced accuracy: 65%
-####
- * SMOTE Oversampling
- * Undersampling
- * SMOTEEN Sampling
- * Balanced Random Forest Classifier
- * Easy Ensembl Analysis Summary
+### Scores 
+ * Naive Random Samping: Balanced accuracy(65%), precision(1%), recall(62%)
+ * SMOTE Oversampling: Balanced accuracy(64%), precision(1%), recall(63%)
+ * Undersampling: Balanced accuracy(52%), precision(1%), recall(60%)
+ * SMOTEEN Sampling: Balanced accuracy(62%), precision(1%), recall(68%)
+ * Balanced Random Forest Classifier: Balanced accuracy(80%), precision(4%), recall(70%)
+ * Easy Ensembl Analysis Summary: Balanced(94%), precision(7%), recall(90%)
 
 ## Credit_Risk_Analysis Summary
 ### In depth investigation supports the above image and its results. The Easy Ensemble model presents the best accuracy with 94%. The next closest it the Balanced Random Forest model with 80%. Over, under, and combination sampling produced nothing over 65%. Another helpful statistic is the precision ratings. Easy Ensemble again has the highest at 7%. While this may seem like a clear indicator other models might provide higher numbers. These ratings combined point at Easy Ensemble as the best choice for model.
