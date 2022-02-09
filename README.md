@@ -4,7 +4,7 @@
 ### Purpose
 ___
 
-### Credit risk classification can be tricky. With good loans far outnumbering bad loans, the classification is inherently unbalanced. To combat this many different techniques are employed to train and evaluate models with unbalanced classes. The libraries imbalanced-learn and scikit-learn are used to build and evaluate models using resampling. 
+### Credit risk classification can be tricky. With good loans far outnumbering bad loans, the classification is inherently unbalanced. To combat this many different techniques are employed to train and evaluate models with unbalanced classes. The libraries imbalanced-learn and scikit-learn are used to build and evaluate models using resampling.Oversampling,undersampling, a combination of the two, and two new models will be introduced. 
 ### Technologies used:
   * RandomOverSampler algorithm
   * SMOTE algorithm
@@ -15,8 +15,6 @@ ___
 
 ## Credit_Risk_Analysis Results
 ___
-### 
-
 ### Below is a list of images showing the code for the different models and the results each one yields.
 ### Naive Random Oversampling
 
