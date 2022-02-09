@@ -69,4 +69,4 @@ ___
 ![EasyEnsemble1](https://user-images.githubusercontent.com/89947873/153303778-bd57608a-30af-47a1-8b59-7bf4a67905c2.png)
 
 ## Credit_Risk_Analysis Summary
-### In depth investigation supports the above image and its results. The Easy Ensemble model presents the best accuracy with 94%. The next closest it the Balanced Random Forest model with
+### In depth investigation supports the above image and its results. The Easy Ensemble model presents the best accuracy with 94%. The next closest it the Balanced Random Forest model with 80%. Over, under, and combination sampling produced nothing over 65%.
